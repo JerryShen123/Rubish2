@@ -1,1 +1,1 @@
-runtest hello
+"Hello,World"
